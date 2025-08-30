@@ -1,2 +1,2 @@
-# Stratos
-Framework
+# 🛡️ Stratos
+Lua Framework
